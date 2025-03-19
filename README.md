@@ -1,6 +1,6 @@
 # Marching-Squares
 
- For the Marching Squares algorithm implemented by me, I have chosen a multi-function approach.
+    For the Marching Squares algorithm implemented by me, I have chosen a multi-function approach.
     It fulfills all the criteria specified in the in the title, being built through dynamic memory management, modeling
     modeling and manipulation of images in PPM-P3 format, resizing of read and processed images. Contour matrices are used which
     help the Marching Squares algorithm to work properly.
