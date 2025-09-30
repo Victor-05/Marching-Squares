@@ -5,8 +5,8 @@ TARGETS=marching_squares
 
 build: $(TARGETS)
 
-marching_squares: tema.c
-	$(CC) $(CFLAGS) tema.c -o marching_squares
+marching_squares: main.c
+	$(CC) $(CFLAGS) main.c -o marching_squares
 
 pack:
 	zip -FSr 313CA_SerbanVictor_Tema2.zip README Makefile *.c *.h
